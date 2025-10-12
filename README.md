@@ -204,17 +204,17 @@ Check out my other repositories for API integrations, automation scripts, AI too
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/color/96/000000/google-logo.png" width="60"/>
 <br><strong>SEO</strong>
 <br><sub>Web visibility</sub>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60"/>
 <br><strong>APIs</strong>
 <br><sub>Integrations</sub>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
 <br><strong>AI/ML</strong>
 <br><sub>Intelligence</sub>
