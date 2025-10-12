@@ -40,7 +40,7 @@
 
 ### **AI & Automation Tools**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+<!-- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" /> -->
 <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Claude_AI-181818?style=flat-square&logo=anthropic&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=000000"/>
