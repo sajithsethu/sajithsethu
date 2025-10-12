@@ -210,11 +210,6 @@ Check out my other repositories for API integrations, automation scripts, AI too
 <br><sub>Web visibility</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/digital-marketing.png" width="60"/>
-<br><strong>Marketing</strong>
-<br><sub>Online presence</sub>
-</td>
-<td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60"/>
 <br><strong>APIs</strong>
 <br><sub>Integrations</sub>
