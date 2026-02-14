@@ -1,8 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/sajithsethu/sajithsethu)
-![GitHub forks](https://img.shields.io/github/forks/sajithsethu/sajithsethu)
-![License](https://img.shields.io/github/license/sajithsethu/sajithsethu)
-
-
 <div align="center">
 
 # ✨ Hey there, I'm <a href="https://sajith.magecodes.site" target="_blank">Sajith S</a> 👋
