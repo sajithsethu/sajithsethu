@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO_NAME)
-![License](https://img.shields.io/github/license/USERNAME/REPO_NAME)
+![GitHub stars](https://img.shields.io/github/stars/sajithsethu/sajithsethu)
+![GitHub forks](https://img.shields.io/github/forks/sajithsethu/sajithsethu)
+![License](https://img.shields.io/github/license/sajithsethu/sajithsethu)
 
 
 <div align="center">
