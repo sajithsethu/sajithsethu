@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO_NAME)
+![License](https://img.shields.io/github/license/USERNAME/REPO_NAME)
+
+
 <div align="center">
 
 # ✨ Hey there, I'm <a href="https://sajith.magecodes.site" target="_blank">Sajith S</a> 👋
